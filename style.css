@@ -14,6 +14,11 @@ pink #D8C5A5  */
   background-color:#D8C5A5;
   padding:50px;
 }
+
+.bg-green{
+  background-color:#6FBEEE ;
+  padding:50px;
+}
 nav{
   background-color:#D8C5A5;
   border:1px solid #DDEAF3;
@@ -24,7 +29,7 @@ nav{
 }
 
 nav ul li{
-  display:incline-block;
+  display:inline-block;
   list-style-type:none;
 }
 
